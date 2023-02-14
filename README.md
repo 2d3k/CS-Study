@@ -6,3 +6,7 @@
 
 ## 정리
 이슈에 기록한 내용은 카테고리에 맞는 디렉토리에 마크다운으로 정리해 올린다.
+
+## 스터디원
+[김은진](https://github.com/2d3k)
+[유현아](https://github.com/hyeonayou)
