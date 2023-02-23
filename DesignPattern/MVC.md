@@ -1,4 +1,5 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b200a78c-05ce-41e3-9a93-381619b3e8f7/Untitled.png)
+![image](https://user-images.githubusercontent.com/102038283/220949127-dac19874-4757-4350-8a4b-5f0a6f6ef50f.png)
+
 
 하나의 프로젝트를 구성할 때 Model, View, Controller의 역할로 구성요소를 구분한 패턴
 
@@ -184,9 +185,10 @@ Massive-View-Controller
 
 MVC 패턴을 사용한 스프링부트와 JPA는 애플리케이션 관심사의 분리한다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37bbcb5b-7177-41da-9f36-740d9af78c48/Untitled.png)
+
 
 Service
+![image](https://user-images.githubusercontent.com/102038283/220949348-58149e97-ecda-41e8-b70a-48151dcd3b77.png)
 
 데이터를 가공하는 과정 == 비즈니스 로직 수행
 
